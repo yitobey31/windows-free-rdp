@@ -9,3 +9,5 @@ Nasıl Kullanılır?
 İlk önce https://ngrok.com sitesine giriniz.
 
 Sonra Kayıt Olunuz.
+
+Kayıt Olduktan Sonra...
