@@ -24,4 +24,4 @@ Token:Ngroktan Kopyaladığınız tokeni yapıştırın.
 
 Ve add secrete basıp bu github sitenin ana menüsüne dönün.
 
-Github Bu Site Kısmından Actionsa direk basın ve CI kısmını bulup tıklayın  builde basın rdpniz başlayacaktır.
+Github Bu Site Kısmından Actionsa direk basın ve CI kısmını bulup tıklayın run worklofa girin iki kere yeşildede ve oluşturudğunuz kısmı tıklayıp builde basın rdpniz başlayacaktır.
