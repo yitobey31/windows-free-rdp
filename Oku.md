@@ -11,3 +11,5 @@ Nasıl Kullanılır?
 Sonra Kayıt Olunuz.
 
 Kayıt Olduktan Sonra...
+
+Ngroktaki Your AuthToken kısmına tıklayıp tokeni kopyalayınız.
