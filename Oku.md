@@ -14,4 +14,4 @@ Kayıt Olduktan Sonra...
 
 Ngroktaki Your AuthToken kısmına tıklayıp tokeni kopyalayınız.
 
-Bu Github Sayfasındaki Settings Kısmına basıp Actions kısmını bulup onada basın.
+Bu Github Sayfasındaki Settings Kısmına basıp Secrets kısmını bulup onada basın.
