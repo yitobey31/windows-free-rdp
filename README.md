@@ -23,3 +23,5 @@ Name:NGROK_AUTH_TOKEN
 Token:Ngroktan Kopyaladığınız tokeni yapıştırın.
 
 Ve add secrete basıp bu github sitenin ana menüsüne dönün.
+
+Github Bu Site Kısmından Actionsa direk basın ve builde basın rdpniz başlayacaktır.
