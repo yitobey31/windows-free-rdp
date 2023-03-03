@@ -17,3 +17,9 @@ Ngroktaki Your AuthToken kısmına tıklayıp tokeni kopyalayınız.
 Bu Github Sayfasındaki Settings Kısmına basıp Secrets kısmını bulup onada basın.
 
 Secrets Kısmından Actionsa dokunun ve yeni şey oluşturun.
+
+Name:NGROK_AUTH_TOKEN
+
+Token:Ngroktan Kopyaladığınız tokeni yapıştırın.
+
+Ve add secrete basıp bu github sitenin ana menüsüne dönün.
